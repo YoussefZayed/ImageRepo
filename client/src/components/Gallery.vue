@@ -61,7 +61,7 @@ export default {
 
   .search-box{
     margin-top: 5vh;
-    margin-bottom: -10vh;
+    margin-bottom: -5vh;
   }
   input{ 
   width: 60vw;

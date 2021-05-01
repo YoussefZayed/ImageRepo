@@ -48,5 +48,6 @@ justify-content: center;
 }
 h1 {
   text-shadow: 2px 2px #000000;
+  font-size: 10vh;
 }
 </style>
