@@ -22,4 +22,4 @@ run `npm i` then run `npm run serve`.
 it will then display a local host port such as ("http://localhost:8081/").
 Open the url in any browser and the project should be there.
 
-Due to time contraints only the search function has been added. You are able to search for things such as building or snow and only the revlevant images will apear.
+Due to time contraints only the search function has been added. You are able to search for things such as building or snow and only the revlevant images will appear.
