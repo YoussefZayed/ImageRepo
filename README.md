@@ -3,11 +3,11 @@
 ![](https://github.com/YoussefZayed/ImageRepo/blob/main/imageRepo.png)
 
 
-#shopify-challenge
+# shopify-challenge
 
 Shopify Developer Intern Challenge Question - This program attempts to solve the challenge outlined for the Fall 2021 intership positions.
 
-#How to run it!
+# How to run it!
 
 
 Ensure that node and npm are installed on your machine.
