@@ -5,7 +5,9 @@
 
 # shopify-challenge
 
-Shopify Developer Intern Challenge Question - This program attempts to solve the challenge outlined for the Fall 2021 intership positions.
+Shopify Developer Intern Challenge Question - This program attempts to solve the challenge outlined for the Winter 2022 intership positions. 
+https://docs.google.com/document/d/1eg3sJTOwtyFhDopKedRD6142CFkDfWp1QvRKXNTPIOc/edit#heading=h.n7bww7g70ipk
+
 
 # How to run it!
 
